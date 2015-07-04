@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What's Next at HomeworQ.com
+tags: homeworq
 ---
 
 I mentioned that <a href="http://homeworq.com">HomeworQ.com</a> is still a little rough around the edges.  No promises about when these will see the light of day, but here are some of the things I'm working on:

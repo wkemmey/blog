@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Whit Kemmey
+tagline:             Whit's Blog
+url:                 http://blog.whitkemmey.com
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +20,19 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Whit Kemmey
+  url:               https://twitter.com/wkemmey
+  email:             whit.kemmey@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/wkemmey/blog
+
+# links for the header
+main_site:           http://www.whitkemmey.com
+pages_list:
+  Blog:              http://blog.whitkemmey.com
+  Archive:           /archive
+  Feed:              /atom.xml
+  About:             /about

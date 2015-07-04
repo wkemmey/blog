@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Children's Online Privacy Protection Act (COPPA)
+tags: homeworq
 ---
 
 A user asked me today, "Wouldn't it be nice if you could send an email when someone has an <a href="http://homeworq.com">overdue homework assignment</a>?"

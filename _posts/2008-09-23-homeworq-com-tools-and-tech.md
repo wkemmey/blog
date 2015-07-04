@@ -1,6 +1,7 @@
 ---
 layout: post
 title: HomeworQ.com Tools and Tech
+tags: homeworq
 ---
 
 So what kind of space-age technology does it take to <a href="http://homeworq.com">track your homework</a>?  For the curious, I'm using <a href="http://www.rubyonrails.org/">Ruby on Rails</a>, which I absolutely love.  I also use the <a href="http://github.com/technoweenie/restful-authentication/tree/master">restful_authentication</a> plugin, but I have heavily modified it beyond recognition for the particular needs of my site.
