@@ -36,3 +36,11 @@ pages_list:
   Archive:           /archive
   Feed:              /atom.xml
   About:             /about
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      comments: true

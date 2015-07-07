@@ -15,6 +15,7 @@ title: Home
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
     {{ post.content }}
+    <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.permalink }}"></a>
   </article>
   {% endfor %}
 </div>
@@ -31,3 +32,5 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+
+{% include comment_count.html %}

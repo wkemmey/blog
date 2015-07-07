@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What's Next at HomeworQ.com
+permalink: next-at-homeworq
 tags: homeworq
 ---
 

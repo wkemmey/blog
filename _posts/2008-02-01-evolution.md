@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Evolution
+permalink: evolution
+published: false
 ---
 
 Because I went to the Naval Academy back when the navy was pushing everyone to use Ada, that was the language of our college curriculum.  We used assembly or C or whatever as needed, but most classes used Ada.  We compiled everything on a mainframe, since at the time there was no Ada compiler that would run on a PC.  In my personal projects, and in two consulting jobs I did while still in college, I used Pascal.

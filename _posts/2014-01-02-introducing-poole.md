@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing Poole
+permalink: introducing-poole
 published: false
 ---
 

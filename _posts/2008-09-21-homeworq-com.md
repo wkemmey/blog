@@ -1,6 +1,7 @@
 ---
 layout: post
 title: HomeworQ.com
+permalink: homeworq
 tags: homeworq
 ---
 

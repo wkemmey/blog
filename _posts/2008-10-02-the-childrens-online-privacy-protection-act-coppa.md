@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Children's Online Privacy Protection Act (COPPA)
+permalink: coppa
 tags: homeworq
 ---
 

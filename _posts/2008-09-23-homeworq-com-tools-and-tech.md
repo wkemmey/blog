@@ -1,6 +1,7 @@
 ---
 layout: post
 title: HomeworQ.com Tools and Tech
+permalink: homeworq-tools-and-tech
 tags: homeworq
 ---
 
